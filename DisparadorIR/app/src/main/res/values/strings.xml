@@ -1,0 +1,8 @@
+<resources>
+    <string name="titulo_automacao">Disparo automático</string>
+    <string name="botao_manual">Disparo Manual</string>
+    <string name="botao_comecar">Começar</string>
+    <string name="botao_parar">Parar</string>
+    <string name="hint_intervalo">Intervalo (segundos)</string>
+
+</resources>
