@@ -38,4 +38,4 @@ Esse circuito interpreta o sinal IR enviado pelo app e converte em um pulso elé
 
 ### 🎥 Demonstração em vídeo
 
-[Ver no YouTube](https://www.youtube.com/watch?v=ID_DO_VIDEO)
+[Ver no YouTube]([https://www.youtube.com/watch?v=ID_DO_VIDEO](https://youtu.be/scufi_Z2r9k))
